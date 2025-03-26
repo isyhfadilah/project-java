@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14" pages="2">
+  <diagram name="identitas developer" id="omUrHAI4sRzahaXBwqy9">
+    <mxGraphModel dx="1167" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iD2M9kpjNned2oIN91tV-2" target="bflB3uyy57L1N6Iy8PKD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iD2M9kpjNned2oIN91tV-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bflB3uyy57L1N6Iy8PKD-1" target="bflB3uyy57L1N6Iy8PKD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-1" value="Inisialisasi ArrayList Developer" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bflB3uyy57L1N6Iy8PKD-2" target="bflB3uyy57L1N6Iy8PKD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-2" value="Tambah data developer ke ArrayList" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bflB3uyy57L1N6Iy8PKD-3" target="bflB3uyy57L1N6Iy8PKD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bflB3uyy57L1N6Iy8PKD-3" target="bflB3uyy57L1N6Iy8PKD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-3" value="Masih ada developer di ArrayList?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="356.5" y="410" width="112" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-4" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="145" y="435" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bflB3uyy57L1N6Iy8PKD-5" target="bflB3uyy57L1N6Iy8PKD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-5" value="Panggil method&amp;nbsp;&lt;div&gt;untuk menampilkan informasi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="575" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bflB3uyy57L1N6Iy8PKD-6" target="bflB3uyy57L1N6Iy8PKD-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-6" value="Index++" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="575" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bflB3uyy57L1N6Iy8PKD-7" target="bflB3uyy57L1N6Iy8PKD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-7" value="Menampilkan&amp;nbsp;&lt;div&gt;informasi identitas developer&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="565" y="540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-18" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bflB3uyy57L1N6Iy8PKD-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OXvASAPJDM_Ajg8aPNyu-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Flowchart Identitas Developer (Program 1)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="50" width="330" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ewMYVpk-euz97G0Ojxjh" name="aritmatika">
+    <mxGraphModel dx="1615" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TDqxY1fr81SDmSPV0srD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q2QKE6f7v_PFPqPu3InE-2" target="q2QKE6f7v_PFPqPu3InE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2QKE6f7v_PFPqPu3InE-2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="372.75" y="170" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqxY1fr81SDmSPV0srD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q2QKE6f7v_PFPqPu3InE-4" target="q2QKE6f7v_PFPqPu3InE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2QKE6f7v_PFPqPu3InE-4" value="double totalBuku = 250,&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bukuTerbaca = 75,&lt;/span&gt;&lt;div&gt;bukuTersisa, persenDibaca&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqxY1fr81SDmSPV0srD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q2QKE6f7v_PFPqPu3InE-20" target="q2QKE6f7v_PFPqPu3InE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2QKE6f7v_PFPqPu3InE-20" value="bukuTersisa =&lt;div&gt;&amp;nbsp;totalBuku - bukuTerbaca&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqxY1fr81SDmSPV0srD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q2QKE6f7v_PFPqPu3InE-21" target="TDqxY1fr81SDmSPV0srD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2QKE6f7v_PFPqPu3InE-21" value="persenDibaca&amp;nbsp;&lt;div&gt;=&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(bukuTerbaca / totalBuku) * 100&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqxY1fr81SDmSPV0srD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TDqxY1fr81SDmSPV0srD-1" target="TDqxY1fr81SDmSPV0srD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqxY1fr81SDmSPV0srD-1" value="Menampilkan&amp;nbsp;&lt;div&gt;statistika LITerm&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="355.25" y="620" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TDqxY1fr81SDmSPV0srD-2" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="372.75" y="720" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KsCHIbRijNBYjfnlR_tm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Flowchart Statistika LITerm (Program 2)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="94" width="330" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
